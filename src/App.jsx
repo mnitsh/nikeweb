@@ -1,5 +1,5 @@
 import Nav from "./components/Nav";
-import CustomerReview from "./section/customerReview";
+import CustomerReview from "./section/CustomerReview";
 import Footer from "./section/Footer";
 import Hero from "./section/Hero";
 import PopularProduct from "./section/PopularProduct";
